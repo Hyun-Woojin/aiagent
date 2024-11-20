@@ -39,7 +39,7 @@ if st.button('거리측정'):
         st.write('인공지능의 예측 거리는', p)
 
 
-
+ st.write(' - 피드백 링크: https://docs.google.com/forms/d/e/1FAIpQLSd40XDiG3chAODACK03Yeoe5W72GW3S03VFFvXw_R_wkh80kA/viewform')
 
 
 
