@@ -12,7 +12,7 @@ with col1:
       st.subheader('모델 설명 ')
       st.write(' - 기계학습 알고리즘 : 선형 회귀 ')
       st.write(' - 학습 데이터 출처 : https://www.kaggle.com/code/alfredkondoro/eda-cardio-activities/input')
-      st.write(' - 피드백 링크: https://docs.google.com/forms/d/e/1FAIpQLSd40XDiG3chAODACK03Yeoe5W72GW3S03VFFvXw_R_wkh80kA/viewform')
+      st.write(' - 피드백 링크: https://forms.gle/oVbbhDqQ6mLZeGq29')
       st.write(' - 훈련    데이터 : 350건')
       st.write(' - 테스트 데이터 : 150건')
       st.write(' - 모델 정확도 : 0.99')
